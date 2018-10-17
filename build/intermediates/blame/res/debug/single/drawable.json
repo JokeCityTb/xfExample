@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable/ok_button.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/drawable/ok_button.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable/list_bg_color.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/drawable/list_bg_color.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable/setting.png",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/drawable/setting.png"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable/main_setting_btn_np.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/drawable/main_setting_btn_np.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable/leak_canary_toast_background.xml",
+        "source": "/Users/ruiwenli/.android/build-cache/e75b653107c084c4fdbbc58d4dfd003fe9c0e0a4/output/res/drawable/leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable/cancel_button.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/drawable/cancel_button.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable/setting_p.png",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/drawable/setting_p.png"
+    }
+]

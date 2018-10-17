@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/leak_canary_icon.png",
+        "source": "/Users/ruiwenli/.android/build-cache/e75b653107c084c4fdbbc58d4dfd003fe9c0e0a4/output/res/drawable-hdpi-v4/leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_left.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/drawable-hdpi/btn_left.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_right.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/drawable-hdpi/btn_right.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_login.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/drawable-hdpi/button_login.xml"
+    }
+]

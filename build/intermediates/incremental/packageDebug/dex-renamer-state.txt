@@ -1,0 +1,4 @@
+#Mon Oct 08 14:52:45 CST 2018
+base.0=/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

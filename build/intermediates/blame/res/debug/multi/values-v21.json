@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 10,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/ruiwenli/.android/build-cache/e75b653107c084c4fdbbc58d4dfd003fe9c0e0a4/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 10,
+                        "endOffset": 140
+                    }
+                }
+            }
+        ]
+    }
+]

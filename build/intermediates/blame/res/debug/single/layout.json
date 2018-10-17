@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/layout/wake_activity.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/layout/wake_activity.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/Users/ruiwenli/.android/build-cache/e75b653107c084c4fdbbc58d4dfd003fe9c0e0a4/output/res/layout/leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/layout/leak_canary_ref_top_row.xml",
+        "source": "/Users/ruiwenli/.android/build-cache/e75b653107c084c4fdbbc58d4dfd003fe9c0e0a4/output/res/layout/leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/layout/leak_canary_ref_row.xml",
+        "source": "/Users/ruiwenli/.android/build-cache/e75b653107c084c4fdbbc58d4dfd003fe9c0e0a4/output/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/layout/list_items.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/layout/list_items.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/layout/leak_canary_leak_row.xml",
+        "source": "/Users/ruiwenli/.android/build-cache/e75b653107c084c4fdbbc58d4dfd003fe9c0e0a4/output/res/layout/leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/layout/leak_canary_display_leak.xml",
+        "source": "/Users/ruiwenli/.android/build-cache/e75b653107c084c4fdbbc58d4dfd003fe9c0e0a4/output/res/layout/leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/res/merged/debug/layout/iatdemo.xml",
+        "source": "/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/src/main/res/layout/iatdemo.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/libs/Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47b839f1388bda9f9f7cdfa82be30952e51e049b">
+        <dex dex="/Users/ruiwenli/Downloads/Android_esriat_exp1133_5b95cc0b/sample/mscV5PlusDemo/build/intermediates/pre-dexed/debug/Msc_dd13253a9b1239c42a5a937e5711f46e7da22024.jar" />
+    </item>
+
+</items>
